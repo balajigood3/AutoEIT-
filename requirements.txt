@@ -1,5 +1,6 @@
 fastapi
 uvicorn
+librosa
 python-multipart
 openai-whisper
 torch
